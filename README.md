@@ -4,9 +4,10 @@
     - [Guides](https://danger.systems/guides/getting_started.html)
     - [References](https://danger.systems/reference.html)
     - [Expertiza Dangerfile](https://github.com/expertiza/expertiza/blob/master/Dangerfile)
+    - Note: You could create a new gem based on the existing [danger gem](https://github.com/danger/danger).
   - Travis CI Bot
     - [Tutorial](https://github.com/bluzi/travis-buddy/blob/master/README.md)
-    - Notes: You could deploy your own version to Heroku.
+    - Note: You could deploy your modified bot to Heroku.
   - Code Climate Bot
     - [Step1: Add and config Code Climate](https://docs.codeclimate.com/docs)
     - [Step2: Enable pull request comments](https://docs.codeclimate.com/docs/github-pull-requests)
