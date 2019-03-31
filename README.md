@@ -1,5 +1,5 @@
 # Improving Feedback on GitHub Pull Requests: A Bots Approach
-- How to...?
+- How to set up bots on your repo?
   - Danger Bot
     - [Guides](https://danger.systems/guides/getting_started.html)
     - [References](https://danger.systems/reference.html)
