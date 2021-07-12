@@ -15,4 +15,4 @@
 - SIGCSE'19 poster
 ![poster](https://raw.githubusercontent.com/Winbobob/Improving-Feedback-on-GitHub-Pull-Requests-A-Bots-Approach/master/SIGCSE'19%20poster%20-%20new.png)
 - Need help?
-  - Send emails to zhu6@ncsu.edu
+  - Send emails to zhewei.hu33@gmail.com
